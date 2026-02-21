@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -302,7 +302,7 @@ Prince Kumar
 <div class="box" onclick="toggle(this)">
 <h3>School</h3>
 <div class="content">
-Present International School
+Pride International School
 </div></div>
 
 <div class="box" onclick="toggle(this)">
