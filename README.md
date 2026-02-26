@@ -301,7 +301,62 @@ Prince Kumar
 <div class="box" onclick="toggle(this)">
 <h3>School</h3>
 <div class="content">
-Pride International School
+Pride International School, 1km from Hardia chowk Narkatiaganj,Bihar
+
+
+  🌟 Pride International School 🌟
+🏫 About Our School
+Pride International School is a place where learning meets excellence. Our school focuses on building strong character, knowledge, confidence, and leadership skills in students. We believe that every child has special talent, and we help them grow in the best possible way.
+
+
+
+
+✨ Modern Education System
+Our school follows a modern and advanced education system, which includes:
+📱 Smart Classes with digital boards
+💻 Well-equipped Computer Labs
+🔬 Modern Science Laboratories
+📚 Updated and rich Library
+🧠 Activity-based and practical learning
+🌍 Focus on English communication skills
+🎯 Concept-based teaching methods
+We focus not only on book knowledge but also on practical understanding.
+
+
+
+
+
+🌱 Holistic Development
+At Pride International School, we believe in overall development:
+🏏 Sports and Physical Education
+🎭 Cultural Programs and Annual Functions
+🗣 Debate and Speech Competitions
+🧘 Yoga and Meditation
+🎨 Art and Craft Activities
+We develop students mentally, physically, socially, and emotionally.
+🏆 Why Choose Pride International School?
+✔ Highly qualified and caring teachers
+✔ Safe and disciplined environment
+✔ Focus on moral values and good character
+✔ Regular parent-teacher meetings
+✔ Career guidance and motivation
+✔ Leadership and personality development
+
+
+
+
+💎 Quality of Education
+Our school maintains:
+High academic standards
+Regular tests and performance analysis
+Individual attention to every student
+Friendly and supportive teachers
+Encouragement for competitive exams
+
+
+
+🎯 Our school Mission
+To create responsible, confident, and successful citizens who will contribute positively to society and make the nation proud.
 </div></div>
 
 <div class="box" onclick="toggle(this)">
