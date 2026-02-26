@@ -148,7 +148,7 @@ background:black;
 
 <!-- WELCOME SCREEN -->
 <div id="welcome">
-<h1>Welcome to The Journey of IAS Officer</h1>
+<h1>Welcome to The Journey of Future IAS Officer</h1>
 <p>Discipline • Dedication • Determination</p>
 <button onclick="enterSite()">Enter Mission UPSC</button>
 </div>
@@ -167,6 +167,7 @@ background:black;
 style="background-image:url('https://images.unsplash.com/photo-1524995997946-a1c2e315a42f')">
 <h2>Home - Vision & Mission</h2>
 <div class="grid">
+
 <div class="box" onclick="toggle(this)">
 <h3>My Dream</h3>
 <div class="content">
@@ -202,6 +203,86 @@ IAS officer leads district administration and ensures law and development.
 <div class="content">
 My goal is service before self and honesty before power.
 </div></div>
+
+</div>
+</section>
+
+<!-- GUIDANCE -->
+<section id="guidance" class="section"
+style="background-image:url('https://images.unsplash.com/photo-1503676260728-1c00da094a0b')">
+<h2>How To Crack UPSC</h2>
+<div class="grid">
+
+<div class="box" onclick="toggle(this)">
+<h3>Understand Exam</h3>
+<div class="content">
+UPSC has Prelims, Mains and Interview stages.
+</div></div>
+
+<div class="box" onclick="toggle(this)">
+<h3>NCERT First</h3>
+<div class="content">
+Read NCERT books from class 6 to 12 for strong foundation.
+</div></div>
+
+<div class="box" onclick="toggle(this)">
+<h3>Current Affairs</h3>
+<div class="content">
+Read newspaper daily and make short notes.
+</div></div>
+
+<div class="box" onclick="toggle(this)">
+<h3>Answer Writing</h3>
+<div class="content">
+Practice writing structured answers for mains.
+</div></div>
+
+<div class="box" onclick="toggle(this)">
+<h3>Mock Tests</h3>
+<div class="content">
+Attempt test series for time management and accuracy.
+</div></div>
+
+</div>
+</section>
+
+<!-- SYLLABUS -->
+<section id="syllabus" class="section"
+style="background-image:url('https://images.unsplash.com/photo-1596495577886-d920f1fb7238')">
+<h2>Complete UPSC Syllabus</h2>
+<div class="grid">
+
+<div class="box" onclick="toggle(this)">
+<h3>Prelims</h3>
+<div class="content">
+GS Paper I: History, Geography, Polity, Economy, Environment, Science, Current Affairs.  
+CSAT: Maths, Reasoning, Comprehension.
+</div></div>
+
+<div class="box" onclick="toggle(this)">
+<h3>Mains GS I</h3>
+<div class="content">
+Culture, History, Society, Geography.
+</div></div>
+
+<div class="box" onclick="toggle(this)">
+<h3>Mains GS II</h3>
+<div class="content">
+Polity, Governance, International Relations.
+</div></div>
+
+<div class="box" onclick="toggle(this)">
+<h3>Mains GS III</h3>
+<div class="content">
+Economy, Agriculture, Environment, Security.
+</div></div>
+
+<div class="box" onclick="toggle(this)">
+<h3>Mains GS IV</h3>
+<div class="content">
+Ethics, Integrity, Aptitude.
+</div></div>
+
 </div>
 </section>
 
@@ -220,19 +301,7 @@ Prince Kumar
 <div class="box" onclick="toggle(this)">
 <h3>School</h3>
 <div class="content">
-I study at Pride International School, located approximately 1 km from my home. 
-It is a modern educational institution focused on quality education and overall personality development. 
-The school provides smart classrooms, disciplined environment, and well-qualified teachers. 
-
-Features of my school:
-• Modern teaching methods  
-• Computer and coding classes  
-• Spoken English improvement  
-• Co-curricular activities  
-• Moral and value education  
-
-Coding is also taught in our school which helps students learn technology and develop future-ready skills. 
-Our school prepares students not only for exams but also for real life and global opportunities.
+Pride International School
 </div></div>
 
 <div class="box" onclick="toggle(this)">
@@ -274,14 +343,14 @@ princeguptaui@gmail.com
 Narkatiaganj, Bihar, India
 </div></div>
 
+<!-- ADDED PORTFOLIO BOX -->
 <div class="box">
 <h3>My Portfolio</h3>
 <div class="content" style="display:block;">
 <a href="https://princeguptaui-ui.github.io/Now/" target="_blank" style="color:#FFD700; text-decoration:none;">
-Click Here To Visit My Portfolio
+Click Here to Visit My Portfolio
 </a>
-</div>
-</div>
+</div></div>
 
 </div>
 </section>
